@@ -23,19 +23,12 @@ def create_thing_page(path_to_thing_folder:Path):
 
 	with doc:
 		dominate.tags.h1(thing_data['name'])
-		with dominate.tags.ul():
-			dominate.tags.li(thing_data['address'])
 
 		# Links to maps:
-		with dominate.tags.div(style='display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; margin: 22px;'):
-			lat = thing_data['coordinates'][0]
-			lon = thing_data['coordinates'][1]
-			with dominate.tags.a(href=f'https://www.google.com/maps/place/{lat},{lon}/@{lat},{lon-.003},222a,35y,90h,50t/data=!3m1!1e3!4m4!3m3!8m2!3d{lat}!4d{lon}?entry=ttu'):
-				dominate.tags.img(
-					src = 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon_%282020%29.svg',
-					style = 'height: 44px',
-					title = 'Open in Google Maps',
-				)
+		lat = thing_data['coordinates'][0]
+		lon = thing_data['coordinates'][1]
+		with dominate.tags.div(style='margin: 22px;'):
+			dominate.tags.a(thing_data['address'], href=f'https://www.google.com/maps/place/{lat},{lon}/@{lat},{lon-.003},222a,35y,90h,50t/data=!3m1!1e3!4m4!3m3!8m2!3d{lat}!4d{lon}?entry=ttu')
 
 		path_to_thing_in_murerplan = path_to_thing_folder/'in_murerplan.jpg'
 		if path_to_thing_in_murerplan.is_file():
