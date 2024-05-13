@@ -37,9 +37,11 @@ def create_thing_page(path_to_thing_folder:Path):
 				style = 'max-width: 99%; height: 222px; object-fit: cover; border-radius: 5px;',
 			)
 
-		with dominate.tags.div(style='display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; margin-top: 22px;'):
-			for path_to_pic in (path_to_thing_folder/'pics').iterdir():
-				image_with_link_to_itself(src=path_to_pic.relative_to(path_to_thing_folder), style='max-width: 99%; height: 222px; object-fit: cover; border-radius: 5px;')
+		path_to_pics = path_to_thing_folder/'pics'
+		if path_to_pics.is_dir():
+			with dominate.tags.div(style='display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; margin-top: 22px;'):
+				for path_to_pic in path_to_pics.iterdir():
+					image_with_link_to_itself(src=path_to_pic.relative_to(path_to_thing_folder), style='max-width: 99%; height: 222px; object-fit: cover; border-radius: 5px;')
 
 	with open(path_to_thing_folder/'index.html', 'w') as ofile:
 		print(doc, file=ofile)
