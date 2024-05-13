@@ -15,6 +15,7 @@ def create_thing_page(path_to_thing_folder:Path):
 		dominate.tags.link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin=True)
 		dominate.tags.link(href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap", rel="stylesheet")
 		dominate.tags.link(rel="stylesheet", href="../../css/main.css")
+		dominate.tags.meta(name="viewport", content="width=device-width, initial-scale=1") # This fixes the problem of small font (some texts and also the math) in mobile devices, see https://stackoverflow.com/a/35564095/8849755
 
 	with doc:
 		dominate.tags.h1(thing_data['name'])
