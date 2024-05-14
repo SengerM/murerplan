@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="22.957251"
-     inkscape:cx="1372.9213"
-     inkscape:cy="847.85848"
+     inkscape:zoom="16.730485"
+     inkscape:cx="1160.9048"
+     inkscape:cy="842.26489"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -74,4 +74,12 @@
        id="zunfthauszurzimmerleuten" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 358.77195,229.99299 12.20634,0.12627 -0.0177,-3.67926 -12.12446,-0.0891 z"
-       id="haus_2" /></g></svg>
+       id="haus_2" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 413.31731,219.43807 0.0882,-6.40213 0.21389,0.0903 c -1.38683,-1.83698 -3.18668,-3.75761 -4.08673,-5.496 -1.50142,-0.80576 -2.22547,-1.9835 -3.24398,-3.02033 -1.69806,1.46375 -3.40566,2.82182 -5.14898,3.78399 l 0.3479,0.5603 -0.10686,1.67026 1.70836,-2.82957 2.2511,-0.10403 0.0372,-1.28645 0.70387,0.8137 v 0.64123 l 0.1942,-0.0313 c 0.27087,0.60706 0.5424,1.21413 0.81378,1.82119 l 0.40008,-0.29361 1.35834,1.31167 v -0.32682 h 0.3646 l 0.0553,0.9159 0.84228,0.70524 c 0.19083,1.0761 1.32467,2.34665 2.15344,3.55429 l -0.31525,0.0235 0.0566,2.50962 z"
+       id="haus_3"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 311.21016,228.40855 0.0419,-10.83305 -0.1049,-0.004 0.0344,-6.89095 -2.64736,-2.01863 -2.22118,2.03793 0.20092,17.69038 h 0.56656 l 0.003,-1.91558 c 0.12911,-0.6555 1.35919,-0.43981 1.3352,0.22296 l 0.0905,1.80138 0.47596,0.0104 0.0767,-1.80766 c 0.069,-0.60728 1.42075,-0.66351 1.53053,0.0572 l -0.0362,1.7111 z"
+       id="zunfthaus_zur_haue"
+       sodipodi:nodetypes="cccccccccccccccc" /></g></svg>
