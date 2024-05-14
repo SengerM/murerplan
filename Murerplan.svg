@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="2.295649"
-     inkscape:cx="1302.6817"
-     inkscape:cy="1041.7533"
+     inkscape:zoom="22.813998"
+     inkscape:cx="1335.6493"
+     inkscape:cy="858.74911"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -64,4 +64,11 @@
        style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 328.47834,321.12439 3.88451,-0.0367 1.73418,-0.71381 2.31421,0.52731 0.97025,1.30884 1.47285,-0.16777 1.35073,-2.10087 -0.13256,-10.08624 0.75134,0.56918 0.20854,-2.95106 c -2.30095,-1.98414 -3.46688,-4.1632 -4.70532,-6.32981 l -1.65962,-1.42928 c 0,0 0.0145,-6.42641 -0.005,-6.42641 -0.0196,0 0.81558,-0.36135 0.81558,-0.36135 l -0.89477,-0.95411 0.0868,-6.83286 0.78605,-0.24414 -0.84079,-0.8795 -0.077,-6.74057 0.83114,-0.48977 c -3.80838,-7.45908 -4.00465,-16.63836 -4.4236,-25.71158 l -0.14748,-1.04337 0.65408,-0.56608 -0.61987,-0.79482 -0.12697,-3.80355 -0.29111,1.03801 -1.42976,-0.0157 0.0314,1.34521 c 0,0 1.28325,0.004 1.28325,0.0162 0,0.012 0.0711,1.62967 0.0711,1.62967 l -0.51395,0.6827 0.60395,0.4907 c -0.6757,7.53058 -0.29106,14.94407 -2.60894,22.65598 l -0.37063,-2.64494 -0.79753,3.54685 -0.053,1.59919 -0.8268,1.0885 0.64054,1.22375 0.035,6.54053 -0.73737,0.80843 c 0,0 0.62852,0.54274 0.61431,0.54274 -0.0143,0 -0.1413,6.78561 -0.1413,6.78561 l -0.33339,0.80764 0.27305,0.45397 0.10406,7.47432 -3.39463,2.40745 -0.37676,3.44286 1.06309,0.0992 1.61417,1.51021 -0.39259,0.45003 0.26485,0.39119 -0.0541,3.14026 0.9933,1.57096 1.44328,-0.22381 1.06503,1.27241 z"
        id="stpeter"
-       sodipodi:nodetypes="ccccccccccccscccccccccccccccscccccccccccsccccccccccccccc" /></g></svg>
+       sodipodi:nodetypes="ccccccccccccscccccccccccccccscccccccccccsccccccccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 331.32797,228.30909 0.70427,0.11337 0.60422,-0.0438 c -0.36529,-0.94708 -0.39781,-1.89415 -0.46146,-2.84123 l 1.01722,-1.34588 -0.18986,-0.2257 0.0106,-3.95055 -1.03053,-1.36634 0.003,-0.21306 0.45969,-0.003 -0.0377,-1.28158 -0.23127,-0.19216 0.0699,-1.18179 h 0.48538 l -0.74015,-1.39199 h -0.28432 c -1.21826,-0.87424 -1.76493,-1.67321 -2.48473,-2.49159 -0.79568,1.07599 -1.75605,1.94583 -2.86324,2.6319 l 0.003,3.46376 h 0.2422 l 0.11568,7.25642 c -0.11973,1.20181 -0.29595,2.38025 -0.68858,3.46923 l 0.81383,0.0443 0.33489,-0.47816 z"
+       id="haus_1"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 350.14003,229.18452 6.97687,-0.0759 0.0317,-4.18081 -0.43754,-1.28022 -1.48262,-0.0746 0.0293,-1.71858 -1.96987,0.006 -0.14499,-0.85466 -0.15071,0.87015 -1.91289,-0.0117 -0.24971,1.77594 -0.42622,0.29599 -0.16115,1.00789 -0.0185,0.47259 c 0,0 0.16224,-0.0132 0.17282,-0.0132 0.0106,0 0.004,1.04524 0.004,1.04524 l -0.12732,-0.0794 c 0,0 -0.18254,2.83731 -0.13306,2.81555 z"
+       id="zunfthauszurzimmerleuten" /></g></svg>
