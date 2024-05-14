@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="5.1828779"
-     inkscape:cx="1294.744"
-     inkscape:cy="803.12523"
+     inkscape:zoom="27.616112"
+     inkscape:cx="1051.5057"
+     inkscape:cy="1255.7343"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -82,4 +82,11 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 311.21016,228.40855 0.0419,-10.83305 -0.1049,-0.004 0.0344,-6.89095 -2.64736,-2.01863 -2.22118,2.03793 0.20092,17.69038 h 0.56656 l 0.003,-1.91558 c 0.12911,-0.6555 1.35919,-0.43981 1.3352,0.22296 l 0.0905,1.80138 0.47596,0.0104 0.0767,-1.80766 c 0.069,-0.60728 1.42075,-0.66351 1.53053,0.0572 l -0.0362,1.7111 z"
        id="zunfthaus_zur_haue"
-       sodipodi:nodetypes="cccccccccccccccc" /></g></svg>
+       sodipodi:nodetypes="cccccccccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 381.29638,331.25148 -0.26535,-14.15651 -3.86236,-4.60097 -2.40186,-1.68357 c -1.53687,1.41113 -3.02988,2.40827 -4.51035,3.28705 l 0.60653,0.92607 -0.0243,10.32351 2.71168,4.96237 -0.006,1.06267 z"
+       id="zeughauskeller"
+       sodipodi:nodetypes="cccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 275.7516,335.61173 2.61115,-0.0647 0.01,-0.34079 -0.14425,-0.003 0.0132,-0.3084 0.2028,-0.0339 -0.0233,-0.35907 -0.89453,-1.00332 -0.0644,-1.14919 -0.45217,-0.95176 -0.30292,0.93199 0.0542,0.46138 -0.56669,0.0377 0.0639,0.3406 0.58989,0.0233 0.0602,0.38873 -1.94318,0.0606 -0.0214,0.48498 0.21294,0.19883 -0.0559,0.28898 -0.31684,0.008 0.0516,0.30353 z"
+       id="augustinerbrunnen" /></g></svg>
