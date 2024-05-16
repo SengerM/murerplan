@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="27.616112"
-     inkscape:cx="1051.5057"
-     inkscape:cy="1255.7343"
+     inkscape:zoom="10.600439"
+     inkscape:cx="960.38472"
+     inkscape:cy="1306.4081"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -89,4 +89,8 @@
        sodipodi:nodetypes="cccccccccc" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 275.7516,335.61173 2.61115,-0.0647 0.01,-0.34079 -0.14425,-0.003 0.0132,-0.3084 0.2028,-0.0339 -0.0233,-0.35907 -0.89453,-1.00332 -0.0644,-1.14919 -0.45217,-0.95176 -0.30292,0.93199 0.0542,0.46138 -0.56669,0.0377 0.0639,0.3406 0.58989,0.0233 0.0602,0.38873 -1.94318,0.0606 -0.0214,0.48498 0.21294,0.19883 -0.0559,0.28898 -0.31684,0.008 0.0516,0.30353 z"
-       id="augustinerbrunnen" /></g></svg>
+       id="augustinerbrunnen" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 261.15767,344.83556 -0.60022,-7.32116 0.26909,-0.29482 c -1.70689,-0.53714 -3.0317,-1.35601 -4.33337,-2.19194 l -1.63021,1.47081 -0.18836,-0.27955 c -1.1843,1.19903 -1.3633,2.02125 -3.93954,3.742 -0.89117,1.51826 -2.02898,2.71381 -3.35398,3.66445 l 0.69368,1.06474 2.04743,-1.61735 c 0.87388,1.49133 2.50663,2.77135 4.09925,4.06255 l -0.31536,0.15737 0.44645,3.94182 c 0.78807,-0.45655 1.59265,-0.69433 2.41085,-0.75171 l 0.3524,-0.3945 -0.0875,-0.28821 0.93175,-0.76641 0.43587,-0.84614 z"
+       id="haus_4"
+       sodipodi:nodetypes="ccccccccccccccccccc" /></g></svg>
