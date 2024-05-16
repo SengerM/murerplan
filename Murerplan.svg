@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="22.122293"
-     inkscape:cx="1421.7107"
-     inkscape:cy="822.85775"
+     inkscape:zoom="12.508977"
+     inkscape:cx="1317.174"
+     inkscape:cy="1112.2012"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -111,4 +111,8 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccscccccccccccsccccscccssccccccccscsccccccccccscscccscsssccsccscsccsccsccscssscsccscscscc" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 372.57196,217.96051 8.41483,0.0765 0.0199,1.97967 -0.19749,0.0235 0.0774,2.55782 -8.24497,-0.25912 0.057,-2.22923 -0.24858,-0.0406 z"
-       id="thing_in_front_of_grossmunster" /></g></svg>
+       id="thing_in_front_of_grossmunster" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 344.00005,303.32328 6.27793,0.0209 0.0906,-1.27426 0.60944,-0.71594 0.20248,-7.57885 0.29994,0.0994 0.0574,-0.31358 c -1.66741,-2.23243 -3.31454,-4.23863 -4.94165,-6.02168 l -2.18522,-1.12538 -5.30138,2.88351 c 0,0 0.22868,0.50972 0.23577,0.4989 0.007,-0.0109 -0.0998,0.45096 -0.0998,0.45096 l 0.26374,0.0933 -0.0206,0.54988 0.39963,0.0802 -0.0241,0.48141 0.4717,0.0345 c 0,0 -0.012,0.57064 -0.012,0.58324 0,0.0126 0.35417,0.003 0.35417,0.003 l 0.0285,0.57928 c 0,0 0.49918,0.0481 0.50489,0.0485 0.21823,0.0144 0.40253,7.96915 0.40184,7.96911 z"
+       id="haus_7"
+       sodipodi:nodetypes="cccccccccccccccccsccscc" /></g></svg>
