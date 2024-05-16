@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="6.2006564"
-     inkscape:cx="1346.8735"
-     inkscape:cy="578.40651"
+     inkscape:zoom="3.4408362"
+     inkscape:cx="1379.4612"
+     inkscape:cy="1218.7444"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -100,4 +100,8 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccc" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 330.26035,158.6816 1.2701,-0.50066 0.58219,-0.98228 1.6592,0.0222 0.36574,-0.36295 0.65717,0.47336 0.49784,-0.74642 0.19804,-1.04859 -0.0259,-1.88909 -0.29789,-0.62924 0.41748,-0.22532 -0.4246,-0.72925 0.40725,-0.33184 -0.0929,-1.04695 -0.58708,-0.15138 0.10631,-0.79802 0.63058,0.11174 0.44765,0.4117 0.0243,0.58034 0.0455,0.93803 0.26995,0.41707 -0.25519,0.57412 c 0,0 0.12856,0.32787 0.12856,0.33448 0,0.007 -0.17208,0.40048 -0.17208,0.40048 l 0.0524,1.44266 1.61986,-1.58701 0.11305,-6.17425 0.2621,-0.031 -2.99932,-2.63607 -6.02766,0.0303 1.17253,5.00165 -0.19441,0.342 0.0151,1.25991 0.31551,0.14885 -0.2576,0.32508 z"
-       id="haus_5" /></g></svg>
+       id="haus_5" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 361.57786,320.54845 -0.0953,-5.65534 -0.50994,0.0355 0.006,-0.56531 -0.37941,0.0106 -0.0101,-0.51845 -0.45585,-0.007 -0.0347,-0.66683 -0.53832,0.0124 0.0282,-0.56112 -0.51901,0.0498 -0.0259,-0.75449 -0.79099,0.0183 v 0.33819 l -1.76493,-0.76068 c -1.10564,2.13247 -2.1765,3.13182 -3.25694,4.4436 l 0.18481,4.426 0.81266,0.53629 -0.27466,0.30181 0.0424,1.16797 c 1.96642,-1.03181 3.83943,-2.20701 5.39248,-3.87328 0.61999,0.85819 1.31992,1.58234 2.1895,2.02204 z"
+       id="haus_6"
+       sodipodi:nodetypes="cccccccccccccccccccccc" /></g></svg>
