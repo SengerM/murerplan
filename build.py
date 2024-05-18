@@ -74,10 +74,11 @@ def build_index(path_to_build_directory:Path):
 	with doc:
 		with tags.div(
 			id='welcome_msg',
-			style = 'position: absolute; top: 50%; left: 50%; margin-top: -50vh; margin-left: -50vw; height: 100vh; width: 100vw; background-color: rgba(0,0,0,.9); color: white; padding: 11px;',
+			style = 'position: fixed; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
 		):
 			tags.h1('Welcome to the interactive Murerplan')
-			tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px;')
+			tags.p('In this interactive Murerplan you can click on the buildings and see how they look like today.')
+			tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px; font-size: 200%;')
 
 		with tags.div(style='width: 98.5vw; height: 97vh;'):
 			tags.iframe(
