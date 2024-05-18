@@ -4,7 +4,7 @@ function process_thing(thing) {
 		this.style.cursor = "pointer";
 	};
 	thing.onclick = function() {
-		window.open(`things/${thing.id}/index.html`, '_blank').focus();
+		window.open(`build/things/${thing.id}.html`, '_blank').focus();
 	};
 }
 
