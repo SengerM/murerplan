@@ -1,12 +1,13 @@
-import dominate # https://github.com/Knio/dominate
+import dominate, dominate.tags as tags # https://github.com/Knio/dominate
 from pathlib import Path
 import json
+import os.path
 
 def image_with_link_to_itself(src, **kwargs):
 	with dominate.tags.a(href=src):
 		dominate.tags.img(src=src, **kwargs),
 
-def create_thing_page(path_to_thing_folder:Path):
+def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
 	PICTURES_BORDER = 'border-radius: 5px; border-style: solid; border-color: #4e4f4e;'
 
 	thing_id = path_to_thing_folder.name
@@ -51,9 +52,42 @@ def create_thing_page(path_to_thing_folder:Path):
 						style = 'max-height: 45vh; height: 333px;' + PICTURES_BORDER,
 					)
 
-	with open(path_to_thing_folder/'index.html', 'w') as ofile:
+	path_to_things_pages = path_to_build_directory/'things'
+	path_to_things_pages.mkdir(exist_ok=True)
+	with open(path_to_things_pages/f'{thing_id}.html', 'w') as ofile:
 		print(doc, file=ofile)
 
-if __name__ == '__main__':
+def build_index(path_to_build_directory:Path):
+	doc = dominate.document(title='Murerplan')
+
+	with doc:
+		with tags.div(
+			id='welcome_msg',
+			style = 'position: absolute; top: 50%; left: 50%; margin-top: -50vh; margin-left: -50vw; height: 100vh; width: 100vw; background-color: rgba(0,0,0,.9); color: white; padding: 11px;',
+		):
+			tags.div('Welcome to the interactive Murerplan')
+			tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px;')
+
+		with tags.div(style='width: 98.5vw; height: 97vh;'):
+			tags.iframe(
+				src = os.path.relpath((Path('.')/'Murerplan.svg').resolve(), start=path_to_build_directory.resolve()),
+				style = 'width: 100%; height: 100%; border: 0;',
+			)
+
+		tags.script(src=os.path.relpath((Path('.')/'js/start_murerplan.js').resolve(), start=path_to_build_directory.resolve()))
+
+	with open(path_to_build_directory/'index.html', 'w') as ofile:
+		print(doc, file=ofile)
+
+def build_site():
+	BUILD_DIRECTORY = Path('.')/'build'
+
+	BUILD_DIRECTORY.mkdir(exist_ok=True)
+
+	build_index(BUILD_DIRECTORY)
+
 	for path_to_thing_folder in Path('things').iterdir():
-		create_thing_page(path_to_thing_folder)
+		create_thing_page(path_to_thing_folder, BUILD_DIRECTORY)
+
+if __name__ == '__main__':
+	build_site()
