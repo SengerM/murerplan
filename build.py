@@ -64,12 +64,19 @@ def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
 def build_index(path_to_build_directory:Path):
 	doc = dominate.document(title='Murerplan')
 
+	with doc.head:
+		tags.link(rel="preconnect", href="https://fonts.googleapis.com")
+		tags.link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin=True)
+		tags.link(href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap", rel="stylesheet")
+		tags.link(rel="stylesheet", href="../css/main.css")
+		tags.meta(name="viewport", content="width=device-width, initial-scale=1") # This fixes the problem of small font (some texts and also the math) in mobile devices, see https://stackoverflow.com/a/35564095/8849755
+
 	with doc:
 		with tags.div(
 			id='welcome_msg',
 			style = 'position: absolute; top: 50%; left: 50%; margin-top: -50vh; margin-left: -50vw; height: 100vh; width: 100vw; background-color: rgba(0,0,0,.9); color: white; padding: 11px;',
 		):
-			tags.div('Welcome to the interactive Murerplan')
+			tags.h1('Welcome to the interactive Murerplan')
 			tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px;')
 
 		with tags.div(style='width: 98.5vw; height: 97vh;'):
