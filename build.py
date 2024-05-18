@@ -45,7 +45,7 @@ def create_thing_page(path_to_thing_folder:Path):
 		path_to_pics = path_to_thing_folder/'pics'
 		if path_to_pics.is_dir():
 			with dominate.tags.div(style='display: flex; flex-direction: row; flex-wrap: no-wrap; gap: 10px; margin-top: 10px; overflow: auto;'):
-				for path_to_pic in path_to_pics.iterdir():
+				for path_to_pic in sorted(path_to_pics.iterdir()):
 					dominate.tags.img(
 						src = path_to_pic.relative_to(path_to_thing_folder),
 						style = 'max-height: 45vh; height: 333px;' + PICTURES_BORDER,
