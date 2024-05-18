@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="13.091588"
-     inkscape:cx="1679.5899"
-     inkscape:cy="665.19812"
+     inkscape:zoom="16.536402"
+     inkscape:cx="835.94365"
+     inkscape:cy="1218.675"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -119,4 +119,8 @@
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 439.15073,183.36343 -0.0799,-8.06576 0.18606,0.0491 -1.18605,-3.73893 c -1.13056,-1.04781 -2.02358,-2.01807 -2.83292,-2.96102 -0.94144,1.24571 -2.10844,2.31476 -3.2693,3.38861 l -0.13811,0.97413 -2.05324,0.0125 1.77212,5.16846 -0.0233,6.86896 z"
        id="haus_zum_steinernen_erggel"
-       sodipodi:nodetypes="ccccccccccc" /></g></svg>
+       sodipodi:nodetypes="ccccccccccc" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 222.48957,326.12912 0.004,-0.86895 0.20821,-0.11152 -0.0779,-1.089 c -0.8417,-0.89483 -1.12112,-1.84685 -1.35237,-2.80376 0,0 0.15587,-0.0683 0.12065,-0.25159 -0.0352,-0.18328 -0.0741,-0.27152 -0.29113,-0.27387 -0.217,-0.003 -0.2627,0.14769 -0.2637,0.32527 -0.001,0.17757 0.24251,0.21895 0.24251,0.21895 -0.15752,0.89914 -0.2623,1.78804 -1.07318,2.81416 l 0.0427,1.36176 0.19201,0.10443 0.0135,0.66886 c 0.74125,-0.0899 1.48745,-0.10067 2.2347,-0.0947 z"
+       id="well_in_rennweg"
+       sodipodi:nodetypes="cccccscscccccc" /></g></svg>
