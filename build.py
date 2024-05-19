@@ -71,7 +71,7 @@ def build_index(path_to_build_directory:Path):
 	with doc:
 		with tags.div(
 			id='welcome_msg',
-			style = 'position: fixed; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
+			style = 'margin: auto; height: 88vh; width: 88vw; max-width: 444px; padding: 11px; border-radius: 11px;',
 		):
 			tags.h1('Welcome to the interactive Murerplan')
 			tags.p('In this interactive Murerplan you can click on the buildings and see how they look like today.')
@@ -79,8 +79,9 @@ def build_index(path_to_build_directory:Path):
 				tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px; font-size: 200%;')
 
 		tags.iframe(
+			id = 'murerplan',
 			src = os.path.relpath((Path('.')/'Murerplan.svg').resolve(), start=path_to_build_directory.resolve()),
-			style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px;',
+			style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px; display: none;',
 		)
 
 		tags.script(src=os.path.relpath((Path('.')/'js/start_murerplan.js').resolve(), start=path_to_build_directory.resolve()))

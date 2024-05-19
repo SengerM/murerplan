@@ -6,14 +6,14 @@
     <meta content="width=device-width, initial-scale=1" name="viewport">
   </head>
   <body>
-    <div id="welcome_msg" style="position: fixed; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;">
+    <div id="welcome_msg" style="margin: auto; height: 88vh; width: 88vw; max-width: 444px; padding: 11px; border-radius: 11px;">
       <h1>Welcome to the interactive Murerplan</h1>
       <p>In this interactive Murerplan you can click on the buildings and see how they look like today.</p>
       <div style="width: 100%; display: flex; justify-content: center;">
         <button onclick="start_murerplan()" style="margin: 22px; font-size: 200%;">Start</button>
       </div>
     </div>
-    <iframe src="../Murerplan.svg" style="width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px;"></iframe>
+    <iframe id="murerplan" src="../Murerplan.svg" style="width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px; display: none;"></iframe>
     <script src="../js/start_murerplan.js"></script>
   </body>
 </html>

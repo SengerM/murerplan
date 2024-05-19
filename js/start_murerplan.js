@@ -1,4 +1,4 @@
 function start_murerplan() {
-	var x = document.getElementById("welcome_msg");
-	x.style.display = "none";
+	document.getElementById("welcome_msg").style.display = "none";
+	document.getElementById("murerplan").style.display = "block";
 }
