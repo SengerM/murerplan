@@ -74,7 +74,7 @@ def build_index(path_to_build_directory:Path):
 	with doc:
 		with tags.div(
 			id='welcome_msg',
-			style = 'position: fixed; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
+			style = 'position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
 		):
 			tags.h1('Welcome to the interactive Murerplan')
 			tags.p('In this interactive Murerplan you can click on the buildings and see how they look like today.')
