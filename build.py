@@ -3,6 +3,20 @@ from pathlib import Path
 import json
 import os.path
 
+def add_google_analytics(doc):
+	with doc.head:
+		tags.script(_async=True, src="https://www.googletagmanager.com/gtag/js?id=G-G7QNGJN4FP")
+		tags.script(
+			'''
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-G7QNGJN4FP');
+		'''
+		)
+
+
 def image_with_link_to_itself(src, **kwargs):
 	with dominate.tags.a(href=src):
 		dominate.tags.img(src=src, **kwargs),
@@ -24,11 +38,10 @@ def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
 	doc = dominate.document(title=thing_data['name'])
 
 	with doc.head:
-		tags.link(rel="preconnect", href="https://fonts.googleapis.com")
-		tags.link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin=True)
-		tags.link(href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap", rel="stylesheet")
 		tags.link(rel="stylesheet", href="../../css/main.css")
 		tags.meta(name="viewport", content="width=device-width, initial-scale=1") # This fixes the problem of small font (some texts and also the math) in mobile devices, see https://stackoverflow.com/a/35564095/8849755
+
+	add_google_analytics(doc)
 
 	with doc:
 		with tags.div(style='display:flex; gap: 10px; flex-wrap: wrap; flex-direction: row-reverse; justify-content: flex-end;'):
@@ -67,6 +80,8 @@ def build_index(path_to_build_directory:Path):
 	with doc.head:
 		tags.link(rel="stylesheet", href="../css/main.css")
 		tags.meta(name="viewport", content="width=device-width, initial-scale=1") # This fixes the problem of small font (some texts and also the math) in mobile devices, see https://stackoverflow.com/a/35564095/8849755
+
+	add_google_analytics(doc)
 
 	with doc:
 		with tags.div(
