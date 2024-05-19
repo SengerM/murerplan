@@ -64,7 +64,7 @@ def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
 		path_to_pics = path_to_thing_folder/'pics'
 		if path_to_pics.is_dir():
 			with tags.div(style='display: flex; flex-direction: row; flex-wrap: no-wrap; gap: 10px; margin-top: 10px; overflow: auto;'):
-				for path_to_pic in path_to_pics.iterdir():
+				for path_to_pic in sorted(path_to_pics.iterdir()):
 					tags.img(
 						src = path_to_thing_folder_relative_from_thing_build_directory/'pics'/path_to_pic.name,
 						style = 'max-height: 45vh; height: 333px;' + PICTURES_BORDER,
