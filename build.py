@@ -65,16 +65,13 @@ def build_index(path_to_build_directory:Path):
 	doc = dominate.document(title='Murerplan')
 
 	with doc.head:
-		tags.link(rel="preconnect", href="https://fonts.googleapis.com")
-		tags.link(rel="preconnect", href="https://fonts.gstatic.com", crossorigin=True)
-		tags.link(href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap", rel="stylesheet")
 		tags.link(rel="stylesheet", href="../css/main.css")
 		tags.meta(name="viewport", content="width=device-width, initial-scale=1") # This fixes the problem of small font (some texts and also the math) in mobile devices, see https://stackoverflow.com/a/35564095/8849755
 
 	with doc:
 		with tags.div(
 			id='welcome_msg',
-			style = 'position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
+			style = 'position: fixed; top: 0; left: 0; right: 0; bottom: 0; margin: auto; height: 88vh; width: 88vw; background-color: rgba(0,0,0,.9); color: #edd9a1; padding: 11px; border-radius: 11px;',
 		):
 			tags.h1('Welcome to the interactive Murerplan')
 			tags.p('In this interactive Murerplan you can click on the buildings and see how they look like today.')

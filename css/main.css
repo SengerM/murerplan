@@ -1,7 +1,10 @@
+@font-face {
+  font-family: 'TraditioAH';
+  src: url("../fonts/traditio_ah/traditio.ttf");
+}
+
 body {
-  font-family: "UnifrakturMaguntia", cursive;
-  font-weight: 400;
-  font-style: normal;
+  font-family: 'TraditioAH';
 }
 
 button {
