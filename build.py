@@ -86,18 +86,21 @@ def build_index(path_to_build_directory:Path):
 	with doc:
 		with tags.div(
 			id='welcome_msg',
-			style = 'margin: auto; width: 88vw; max-width: 444px; padding: 11px; border-radius: 11px;',
+			style = 'margin: auto; width: 88vw; max-width: 444px; padding: 11px; border-radius: 11px; font-size: 155%;',
 		):
-			tags.h1('Welcome to the interactive Murerplan')
-			tags.p('In this interactive Murerplan you can click on the buildings and see how they look like today.')
+			tags.h1('Interactive Murerplan')
+			tags.p('The Murerplan is a map of Zürich from 1576. Here, you can click on the buildings to compare how they look today. Enjoy!')
 			with tags.div(style='width: 100%; display: flex; justify-content: center;'):
 				tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px; font-size: 200%;')
 
-		tags.iframe(
-			id = 'murerplan',
-			src = os.path.relpath((Path('.')/'Murerplan.svg').resolve(), start=path_to_build_directory.resolve()),
-			style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px; display: none;',
-		)
+		with tags.div(id = 'murerplan', style='display: none;'):
+			tags.iframe(
+				src = os.path.relpath((Path('.')/'Murerplan.svg').resolve(), start=path_to_build_directory.resolve()),
+				style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px;',
+			)
+			with tags.div():
+				tags.span('Arthur Dürst: Die Planvedute der Stadt Zürich von Jos Murer, 1576. In: Cartographica Helvetica. Heft 15 (1997), S. 23–37. ')
+				tags.a('doi:10.5169/seals-9067', href='https://doi.org/10.5169/seals-9067', target='_blank')
 
 		tags.script(src=os.path.relpath((Path('.')/'js/start_murerplan.js').resolve(), start=path_to_build_directory.resolve()))
 
