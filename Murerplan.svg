@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="22.330593"
-     inkscape:cx="1003.8247"
-     inkscape:cy="1167.6134"
+     inkscape:zoom="18.787881"
+     inkscape:cx="1903.0885"
+     inkscape:cy="758.81361"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -129,4 +129,13 @@
        id="predigerkirche" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 262.93455,313.10905 0.74677,-0.55314 2.7e-4,-2.18006 -0.7179,-0.72149 -0.65441,-0.003 -0.0395,-0.30683 0.4787,-0.0193 -0.004,-0.22683 -0.55971,-0.0511 0.0597,-0.95194 -0.11641,-0.16759 0.14401,-0.15761 -0.13276,-0.15407 c 0,0 0.1456,-0.25514 0.1456,-0.50247 0,-0.24733 -0.13482,-0.60751 -0.42246,-0.60751 -0.28764,0 -0.16741,0.41733 -0.16741,0.41733 0,0 -0.22414,-0.34722 -0.30882,-0.23165 -0.0847,0.11557 -0.0225,0.30303 0.11587,0.42199 0.13834,0.11898 0.25779,0.11898 0.25779,0.11898 l -0.0904,0.64241 0.13446,0.10239 -0.2457,0.0769 0.17289,1.66082 -0.34523,0.43614 0.0472,1.12718 0.24277,0.31948 -0.31394,0.0534 0.0172,0.74684 1.12334,0.67747 z"
-       id="amazonenbrunnen" /></g></svg>
+       id="amazonenbrunnen" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 478.67053,219.17813 -0.0257,-0.53546 -0.21897,-0.26613 v -0.29051 h 0.16089 l -0.0781,-0.3167 -1.35334,-1.23311 -0.34005,-0.0438 -0.76938,0.29868 0.0222,-0.92609 0.12372,-0.22963 -0.28782,-0.48108 -0.0386,-0.34228 0.12467,-0.22625 -0.056,-0.47268 -0.25135,-0.47143 -0.37888,0.56331 v 0.3665 l 0.29974,0.45954 -0.30723,0.67576 0.24926,0.31406 -0.008,0.82902 -1.22716,0.50812 0.003,0.56357 0.31232,0.0752 -0.0414,0.3855 -0.37026,0.0125 0.008,0.55962 1.51567,0.93929 z"
+       id="hechtplatzbrunnen" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 428.37576,220.59709 -0.0519,-2.34644 -0.29258,-0.28201 c 0,0 0.79084,-0.26314 1.41679,-0.90071 0.62593,-0.63756 1.38269,-1.43326 1.38269,-1.43326 l -2.28589,-2.9389 c 0,0 -0.69835,0.60554 -1.454,1.08209 -0.75567,0.47655 -1.40554,0.58202 -1.40554,0.58202 l 0.5379,0.66303 0.0431,2.68128 z"
+       id="bridge_connecting_houses_in_schifflaende" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 504.69477,205.19545 0.55596,0.5392 c 0,0 0.58984,-0.49735 0.9819,-0.91363 0.39203,-0.41627 0.80444,-1.00705 0.80444,-1.00705 0,0 1.41676,1.963 2.22946,2.69233 0.81272,0.72934 1.15877,0.98694 1.15877,0.98694 l 0.0254,-1.26876 c 0,0 -0.92943,-0.70461 -1.60698,-1.43565 -0.67752,-0.73103 -1.59901,-1.91212 -1.59901,-1.91212 l -3.78552,-4.86038 c 0,0 0.29144,0.7023 0.82952,1.55922 0.53808,0.85692 0.8971,1.22495 0.8971,1.22495 l -0.42365,0.0869 z"
+       id="bridge_connecting_houses_1" /></g></svg>
