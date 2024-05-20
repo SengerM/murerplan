@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="18.787881"
-     inkscape:cx="1903.0885"
-     inkscape:cy="758.81361"
+     inkscape:zoom="17.15384"
+     inkscape:cx="1640.4781"
+     inkscape:cy="617.38362"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -138,4 +138,7 @@
        id="bridge_connecting_houses_in_schifflaende" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 504.69477,205.19545 0.55596,0.5392 c 0,0 0.58984,-0.49735 0.9819,-0.91363 0.39203,-0.41627 0.80444,-1.00705 0.80444,-1.00705 0,0 1.41676,1.963 2.22946,2.69233 0.81272,0.72934 1.15877,0.98694 1.15877,0.98694 l 0.0254,-1.26876 c 0,0 -0.92943,-0.70461 -1.60698,-1.43565 -0.67752,-0.73103 -1.59901,-1.91212 -1.59901,-1.91212 l -3.78552,-4.86038 c 0,0 0.29144,0.7023 0.82952,1.55922 0.53808,0.85692 0.8971,1.22495 0.8971,1.22495 l -0.42365,0.0869 z"
-       id="bridge_connecting_houses_1" /></g></svg>
+       id="bridge_connecting_houses_1" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 438.37941,169.33919 0.32856,-4.73979 -0.61446,-1.06597 c 0,0 1.08563,-0.41409 1.95934,-1.21189 0.87368,-0.79779 1.79962,-1.77226 1.79962,-1.77226 0,0 0.7112,0.89552 1.42891,1.58808 0.71771,0.69255 1.19959,1.11637 1.19959,1.11637 l -0.0257,-2.08161 -0.64257,-3e-5 -0.0639,-0.73408 -0.56499,-0.0314 -0.0236,-0.63517 -0.52707,-0.0246 -0.0241,-0.53807 h -0.50329 l -0.0441,-0.51763 -0.32565,-0.061 -0.0535,-0.68748 -0.415,-0.0615 -0.0456,-0.41456 -0.37706,-0.004 -0.11224,-0.59001 -0.48792,0.0466 0.059,0.45063 -0.65532,0.0555 -0.0116,0.51021 -0.66458,0.006 0.0111,0.45846 -0.57957,0.0234 0.0695,0.41073 -0.83217,0.0281 0.0682,0.7971 -0.67088,-0.19493 -0.0726,4.61809 z"
+       id="haus_zum_friesenberg" /></g></svg>
