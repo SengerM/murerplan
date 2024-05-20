@@ -16,7 +16,6 @@ def add_google_analytics(doc):
 		'''
 		)
 
-
 def image_with_link_to_itself(src, **kwargs):
 	with dominate.tags.a(href=src):
 		dominate.tags.img(src=src, **kwargs),
@@ -99,8 +98,12 @@ def build_index(path_to_build_directory:Path):
 				style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px;',
 			)
 			with tags.div():
-				tags.span('Arthur Dürst: Die Planvedute der Stadt Zürich von Jos Murer, 1576. In: Cartographica Helvetica. Heft 15 (1997), S. 23–37. ')
-				tags.a('doi:10.5169/seals-9067', href='https://doi.org/10.5169/seals-9067', target='_blank')
+				with tags.div():
+					tags.span('Arthur Dürst: Die Planvedute der Stadt Zürich von Jos Murer, 1576. In: Cartographica Helvetica. Heft 15 (1997), S. 23–37. ')
+					tags.a('doi:10.5169/seals-9067', href='https://doi.org/10.5169/seals-9067', target='_blank')
+				with tags.div():
+					tags.span('Murerplan in high resolution available in ')
+					tags.a('this link', href='https://www.e-gs.ethz.ch/eMP/eMuseumPlus?service=ExternalSearch&module=collection&viewType=detailList&fulltext=Planvedute%20der%20Stadt%20Z%C3%BCrich', target='_blank')
 
 		tags.script(src=os.path.relpath((Path('.')/'js/start_murerplan.js').resolve(), start=path_to_build_directory.resolve()))
 
