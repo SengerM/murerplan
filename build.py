@@ -51,12 +51,12 @@ def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
 				lon = thing_data['coordinates'][1]
 				tags.a(thing_data['address'], href=f'https://www.google.com/maps/place/{lat},{lon}/@{lat},{lon-.0015},111a,35y,90h,50t/data=!3m1!1e3!4m4!3m3!8m2!3d{lat}!4d{lon}?entry=ttu')
 
-			with tags.div():
+			with tags.div(style= 'height: 45vh; max-width: 100%;'):
 				for extension in {'jpg','png','svg'}:
 					if (path_to_thing_folder/f'in_murerplan.{extension}').is_file():
 						tags.img(
 							src = path_to_thing_folder_relative_from_thing_build_directory/f'in_murerplan.{extension}',
-							style = 'height: 45vh;' + PICTURES_BORDER,
+							style = 'max-width: 100%; max-height: 100%; ' + PICTURES_BORDER,
 						)
 						break
 
