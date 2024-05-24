@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="12.48465"
-     inkscape:cx="448.59086"
-     inkscape:cy="804.30767"
+     inkscape:zoom="14.109888"
+     inkscape:cx="1203.3759"
+     inkscape:cy="415.06352"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -164,4 +164,7 @@
        id="haus_10" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 113.4386,218.80234 4.75552,-6.29927 -0.0561,-6.47293 0.27678,-0.33345 c 0,0 -2.2258,-1.45095 -3.10194,-2.05493 -0.87613,-0.60399 -1.3163,-1.13547 -1.3163,-1.13547 0,0 -1.15843,1.77089 -2.1143,2.43701 -0.95587,0.66611 -1.33742,0.87187 -1.33742,0.87187 0,0 -0.70747,1.08882 -1.54128,1.97272 -0.8338,0.88391 -1.77225,1.76422 -1.77225,1.76422 l 0.35057,0.18213 -0.1041,7.87799 0.36506,0.10073 v -0.44116 l 0.20868,-0.003 c 0,0 -0.25128,-0.23014 0.023,-0.41137 0.27424,-0.18124 0.34764,0.0481 0.34764,0.0481 0,0 -0.123,-0.60821 0.1462,-0.76097 0.2692,-0.15276 0.3753,0.05 0.3753,0.05 0,0 0.5016,-0.65907 1.16261,-0.31421 0.661,0.34486 0.55841,1.06409 0.55841,1.06409 0,0 0.33573,-0.17027 0.65147,0.13233 0.31574,0.30259 0.17611,0.59343 0.17611,0.59343 0,0 0.25982,0.0234 0.29979,0.1407 0.04,0.11728 -0.0737,0.284 -0.0737,0.284 0,0 0.27218,0.0296 0.27218,0.23068 0,0.20109 -0.0328,0.28998 -0.0328,0.28998 z"
-       id="haus_11" /></g></svg>
+       id="haus_11" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 326.35557,113.8464 -4.27442,-2.7271 -4.59975,1.05033 2.11359,1.48075 2.40559,-0.71598 2.07463,1.67115 z"
+       id="kreuzgang_des_barfuesserklosters" /></g></svg>
