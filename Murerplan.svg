@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="14.109888"
-     inkscape:cx="1203.3759"
-     inkscape:cy="415.06352"
+     inkscape:zoom="27.013539"
+     inkscape:cx="1005.6253"
+     inkscape:cy="730.91126"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -167,4 +167,7 @@
        id="haus_11" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 326.35557,113.8464 -4.27442,-2.7271 -4.59975,1.05033 2.11359,1.48075 2.40559,-0.71598 2.07463,1.67115 z"
-       id="kreuzgang_des_barfuesserklosters" /></g></svg>
+       id="kreuzgang_des_barfuesserklosters" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 266.29307,194.81975 0.10387,-0.78109 -0.85328,-0.93318 -0.37727,-0.0189 c 0,0 0.004,-0.19157 -0.0736,-0.57412 -0.0776,-0.38254 -0.0708,-0.75023 -0.0708,-0.75023 0,0 0.28524,0.0198 0.1624,-0.20123 -0.12285,-0.22107 -0.12285,-0.22107 -0.12285,-0.22107 0,0 0.40513,-0.0326 0.3352,-0.26306 -0.0699,-0.2305 -0.27667,-0.42261 -0.27667,-0.42261 l -0.19069,-0.0627 v -0.27973 l 1.43373,-0.12098 c 0,0 -0.01,-0.61668 -0.24122,-0.82564 -0.23167,-0.20897 -1.04704,-0.11302 -1.04704,-0.11302 l -0.0475,-0.55999 -0.30712,0.11659 0.0503,2.0627 c 0,0 -0.19458,0.0213 -0.19458,0.30459 0,0.28333 0.12068,0.54321 0.12068,0.54321 l -0.0748,1.34632 -0.71459,0.003 -0.60356,0.81019 0.005,1.84722 0.79284,0.69392 0.77127,-0.005 -0.005,-0.23229 c 0,0 0.40023,-0.17839 0.83928,-0.64961 0.43905,-0.47122 0.58529,-0.71292 0.58529,-0.71292 z"
+       id="stussibrunnen" /></g></svg>
