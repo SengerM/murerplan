@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="16.409213"
-     inkscape:cx="1221.8441"
-     inkscape:cy="1005.1975"
+     inkscape:zoom="13.69939"
+     inkscape:cx="1047.4919"
+     inkscape:cy="746.12811"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -173,4 +173,9 @@
        id="stussibrunnen" /><path
        style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="m 326.72296,265.5573 -0.43369,-0.69354 -0.0634,-0.31062 -0.076,-0.011 0.11753,-0.47215 0.072,-0.14624 -0.0911,-0.0965 0.11354,-0.55628 -0.30312,-0.27178 0.0574,-0.0398 0.0996,0.0494 0.30201,0.25927 0.11684,0.0173 0.0289,-0.0528 -0.17139,-0.19695 0.004,-0.0901 -0.16823,-0.10129 -0.0369,0.0204 0.004,-0.0723 -0.21425,-0.14975 -0.0676,-0.0179 c 0,0 -0.0578,-0.0484 -0.10625,-0.0449 -0.0483,0.004 -0.17715,0.0983 -0.20067,0.14316 -0.0235,0.0449 -0.0257,0.11093 0,0.18401 0.0267,0.0731 0.28998,0.44574 0.28998,0.44574 l -0.0963,0.064 -0.11409,0.0516 c 0,0 -0.10817,0.0913 -0.13597,0.2556 -0.0275,0.1643 0.004,0.21557 0.004,0.21557 l 0.10721,0.004 -0.01,0.0783 c 0,0 -0.0666,0.0731 -0.13556,0.11781 -0.0689,0.0447 -0.10349,0.0168 -0.13796,0.0669 -0.0347,0.0501 -0.0213,0.10225 0.0222,0.12042 0.0435,0.0182 0.10446,0.003 0.1324,-0.0124 0.0279,-0.0157 0.15469,-0.0389 0.16313,-0.0244 0.008,0.0146 -0.004,0.20757 -0.0217,0.23115 -0.0182,0.0235 -0.0597,0.04 -0.0597,0.04 v 0.15214 l 0.60452,1.12698 z"
-       id="storchennest_in_storchenhotel" /></g></svg>
+       id="storchennest_in_storchenhotel" /><path
+       style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 275.16705,205.2668 0.61264,-0.003 0.1877,-0.60811 0.0148,-0.92407 0.22691,-0.3517 1.10147,-5.34257 c 0,0 -0.19584,-0.72947 -0.16806,-1.87459 0.0279,-1.14512 0.18368,-2.70441 0.18368,-2.70441 0,0 -0.21121,0.1046 -0.73414,-0.4656 -0.52298,-0.57021 -0.6902,-0.80242 -0.6902,-0.80242 l -2.78106,0.0567 c 0,0 -0.11648,1.12116 -0.55844,2.55976 -0.44193,1.4386 -0.77079,2.23189 -0.77079,2.23189 l 0.0186,0.90747 0.55431,-0.59821 c 0,0 0.36293,0.36064 1.21398,0.9784 0.85108,0.61776 1.92963,1.22074 1.92963,1.22074 l -0.61037,0.95497 z"
+       id="haus_12"
+       inkscape:transform-center-x="0.58284329"
+       inkscape:transform-center-y="-6.5673239" /></g></svg>
