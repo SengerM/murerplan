@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="13.69939"
-     inkscape:cx="1047.4919"
-     inkscape:cy="746.12811"
+     inkscape:zoom="11.686989"
+     inkscape:cx="451.6989"
+     inkscape:cy="663.68677"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -178,4 +178,9 @@
        d="m 275.16705,205.2668 0.61264,-0.003 0.1877,-0.60811 0.0148,-0.92407 0.22691,-0.3517 1.10147,-5.34257 c 0,0 -0.19584,-0.72947 -0.16806,-1.87459 0.0279,-1.14512 0.18368,-2.70441 0.18368,-2.70441 0,0 -0.21121,0.1046 -0.73414,-0.4656 -0.52298,-0.57021 -0.6902,-0.80242 -0.6902,-0.80242 l -2.78106,0.0567 c 0,0 -0.11648,1.12116 -0.55844,2.55976 -0.44193,1.4386 -0.77079,2.23189 -0.77079,2.23189 l 0.0186,0.90747 0.55431,-0.59821 c 0,0 0.36293,0.36064 1.21398,0.9784 0.85108,0.61776 1.92963,1.22074 1.92963,1.22074 l -0.61037,0.95497 z"
        id="haus_12"
        inkscape:transform-center-x="0.58284329"
-       inkscape:transform-center-y="-6.5673239" /></g></svg>
+       inkscape:transform-center-y="-6.5673239" /><path
+       style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 121.4401,185.48403 c 0,0 0.46563,-1.06139 1.95819,-3.02461 1.49262,-1.9632 2.31006,-2.99087 2.31006,-2.99087 l -0.26627,-7.53848 0.30438,-0.30708 -3.95345,-4.03119 -3.48402,2.94215 h -0.50443 l -0.0926,0.89113 h -0.26528 l 0.033,-1.51102 -1.04963,-0.14233 -0.21278,0.25721 0.0294,0.12683 0.11745,0.0238 0.0614,2.90114 -0.6832,0.0207 -0.0769,0.79143 -0.84282,0.0479 0.1616,11.69424 z"
+       id="haus_13"
+       inkscape:transform-center-x="-5.300685"
+       inkscape:transform-center-y="-8.911788" /></g></svg>
