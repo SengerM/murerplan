@@ -21,7 +21,7 @@ def image_with_link_to_itself(src, **kwargs):
 		dominate.tags.img(src=src, **kwargs),
 
 def create_thing_page(path_to_thing_folder:Path, path_to_build_directory:Path):
-	PICTURES_BORDER = 'border-radius: 5px; border-style: solid; border-color: #4e4f4e;'
+	PICTURES_BORDER = 'border-radius: 5px; border-style: solid; border-color: rgba(0,0,0,1);'
 
 	path_to_things_pages = path_to_build_directory/'things'
 	path_to_thing_folder_relative_from_thing_build_directory = Path(os.path.relpath(
