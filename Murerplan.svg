@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="11.686989"
-     inkscape:cx="451.6989"
-     inkscape:cy="663.68677"
+     inkscape:zoom="12.652705"
+     inkscape:cx="1317.9396"
+     inkscape:cy="1010.8116"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -183,4 +183,9 @@
        d="m 121.4401,185.48403 c 0,0 0.46563,-1.06139 1.95819,-3.02461 1.49262,-1.9632 2.31006,-2.99087 2.31006,-2.99087 l -0.26627,-7.53848 0.30438,-0.30708 -3.95345,-4.03119 -3.48402,2.94215 h -0.50443 l -0.0926,0.89113 h -0.26528 l 0.033,-1.51102 -1.04963,-0.14233 -0.21278,0.25721 0.0294,0.12683 0.11745,0.0238 0.0614,2.90114 -0.6832,0.0207 -0.0769,0.79143 -0.84282,0.0479 0.1616,11.69424 z"
        id="haus_13"
        inkscape:transform-center-x="-5.300685"
-       inkscape:transform-center-y="-8.911788" /></g></svg>
+       inkscape:transform-center-y="-8.911788" /><path
+       style="font-variation-settings:normal;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 349.19583,268.8079 c 0,0 -0.66423,0.57791 -1.47912,1.09888 -0.81488,0.52099 -1.4592,0.70594 -1.4592,0.70594 l -0.0176,3.43339 0.29078,0.16281 2.99328,-0.0461 -0.009,-4.84194 z"
+       id="haus_14"
+       inkscape:transform-center-x="1.3025718"
+       inkscape:transform-center-y="2.7107576" /></g></svg>
