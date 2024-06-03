@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="10.443783"
-     inkscape:cx="1268.6974"
-     inkscape:cy="1046.029"
+     inkscape:zoom="7.1379762"
+     inkscape:cx="1084.411"
+     inkscape:cy="657.81951"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -191,4 +191,7 @@
        inkscape:transform-center-y="2.7107576" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 346.91468,282.89136 -0.23837,-7.6649 h 0.62588 l -1.66011,-1.72336 -0.003,-0.38058 h 0.20103 l -0.7481,-1.18563 -1.12229,-0.0516 -0.92075,-1.02204 -2.08735,-0.88267 c 0,0 -0.52657,0.48797 -1.21039,0.85852 -0.68381,0.37052 -1.14506,0.54139 -1.14506,0.54139 l 0.30324,0.61359 -0.41326,0.005 0.14605,8.93363 0.92327,1.79504 z"
-       id="zur_grossen_sonne" /></g></svg>
+       id="zur_grossen_sonne" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 285.61773,187.25628 4.08511,0.10317 1.97904,-7.88844 -0.0417,-2.56249 0.68014,-1.98664 0.0388,-3.62096 0.14038,-0.43112 c 0,0 -0.97906,-0.56174 -2.12148,-1.3412 -1.14244,-0.77946 -2.35601,-2.06297 -2.35601,-2.06297 l -2.45515,5.42301 z"
+       id="zum_schwarzen_adler" /></g></svg>
