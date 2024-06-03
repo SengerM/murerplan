@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="12.652705"
-     inkscape:cx="1317.9396"
-     inkscape:cy="1010.8116"
+     inkscape:zoom="10.443783"
+     inkscape:cx="1268.6974"
+     inkscape:cy="1046.029"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -188,4 +188,7 @@
        d="m 349.19583,268.8079 c 0,0 -0.66423,0.57791 -1.47912,1.09888 -0.81488,0.52099 -1.4592,0.70594 -1.4592,0.70594 l -0.0176,3.43339 0.29078,0.16281 2.99328,-0.0461 -0.009,-4.84194 z"
        id="haus_14"
        inkscape:transform-center-x="1.3025718"
-       inkscape:transform-center-y="2.7107576" /></g></svg>
+       inkscape:transform-center-y="2.7107576" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 346.91468,282.89136 -0.23837,-7.6649 h 0.62588 l -1.66011,-1.72336 -0.003,-0.38058 h 0.20103 l -0.7481,-1.18563 -1.12229,-0.0516 -0.92075,-1.02204 -2.08735,-0.88267 c 0,0 -0.52657,0.48797 -1.21039,0.85852 -0.68381,0.37052 -1.14506,0.54139 -1.14506,0.54139 l 0.30324,0.61359 -0.41326,0.005 0.14605,8.93363 0.92327,1.79504 z"
+       id="zur_grossen_sonne" /></g></svg>
