@@ -29,9 +29,9 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="7.1379762"
-     inkscape:cx="1084.411"
-     inkscape:cy="657.81951"
+     inkscape:zoom="13.630625"
+     inkscape:cx="973.433"
+     inkscape:cy="1067.0457"
      inkscape:window-width="1920"
      inkscape:window-height="1054"
      inkscape:window-x="0"
@@ -194,4 +194,7 @@
        id="zur_grossen_sonne" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 285.61773,187.25628 4.08511,0.10317 1.97904,-7.88844 -0.0417,-2.56249 0.68014,-1.98664 0.0388,-3.62096 0.14038,-0.43112 c 0,0 -0.97906,-0.56174 -2.12148,-1.3412 -1.14244,-0.77946 -2.35601,-2.06297 -2.35601,-2.06297 l -2.45515,5.42301 z"
-       id="zum_schwarzen_adler" /></g></svg>
+       id="zum_schwarzen_adler" /><path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 262.34993,289.99037 -0.0849,-9.60544 -2.21071,-3.37409 -3.4622,-2.38827 c 0,0 -0.72406,0.60886 -1.67869,1.26156 -0.95463,0.65273 -2.0062,1.0455 -2.0062,1.0455 l 0.47727,0.38735 -0.0213,1.65183 0.29822,0.53681 h -0.27767 l 0.0922,6.35973 0.33544,0.007 0.0337,0.70294 0.30043,-0.23196 0.0184,-1.01137 0.51626,-0.0687 0.0421,0.63844 0.34178,-0.31279 -0.0246,-1.01631 0.72449,-0.0228 0.0573,0.97057 0.36483,0.0603 0.0689,-0.29565 0.6835,0.49456 -0.0489,0.49247 0.62837,0.0124 -0.0335,0.21833 -0.0174,0.71197 0.64037,-0.0148 v 0.3333 l 0.49583,0.007 0.0432,0.82436 0.50326,0.28742 0.43267,0.0249 0.003,0.42727 z"
+       id="glued_houses" /></g></svg>
