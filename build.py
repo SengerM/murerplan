@@ -92,7 +92,7 @@ def build_index(path_to_build_directory:Path):
 			with tags.div(style='width: 100%; display: flex; justify-content: center;'):
 				tags.button('Start', onclick = 'start_murerplan()', style='margin: 22px; font-size: 200%;')
 
-		with tags.div(id='murerplan', style='display: none; width: 2122px; height: 1455px;'):
+		with tags.div(id='murerplan', style='display: none; width: 2122px; height: 1455px; padding: 33px;'):
 			tags.iframe(
 				src = os.path.relpath((Path('.')/'Murerplan.svg').resolve(), start=path_to_build_directory.resolve()),
 				style = 'width: 2119.418px; height: 1442.618px; border: 2px; border-color: black; border-style: solid; border-radius: 10px;',
