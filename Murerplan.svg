@@ -7,7 +7,7 @@
    viewBox="0 0 560.76274 381.69272"
    version="1.1"
    id="svg5"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="Murerplan.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,11 +29,11 @@
      showgrid="false"
      showborder="true"
      shape-rendering="auto"
-     inkscape:zoom="15.279561"
-     inkscape:cx="1476.4495"
-     inkscape:cy="1055.3641"
+     inkscape:zoom="3.4030327"
+     inkscape:cx="1076.3928"
+     inkscape:cy="620.47597"
      inkscape:window-width="1920"
-     inkscape:window-height="1054"
+     inkscape:window-height="1131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -200,4 +200,7 @@
        id="glued_houses" /><path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 382.41779,280.81261 c 0,0 0.60743,0.65212 1.44849,2.27454 0.84106,1.6224 1.63975,3.11946 1.63975,3.11946 l 5.39721,0.13888 0.0752,-8.79742 0.30636,-0.0465 -0.30853,-0.35417 -0.0233,-2.17437 -0.5829,-1.07522 -2.71357,-0.055 -2.91219,-3.07803 -2.4095,2.00591 0.4183,0.75616 -0.40455,0.003 z"
-       id="haus_15" /></g></svg>
+       id="haus_15" /><path
+       style="fill:#0000ff;stroke-width:0.264583"
+       d="m 285.61773,187.25628 -0.0509,-14.36764 -3.32872,0.0714 -0.1615,0.46918 -1.48175,0.84441 c 0,0 0.0764,0.75982 -0.73282,2.13934 -0.80925,1.37953 -1.23981,2.51144 -1.23981,2.51144 l 0.27596,0.23071 -0.13993,8.0321 z"
+       id="zum_goldenen_horn" /></g></svg>
